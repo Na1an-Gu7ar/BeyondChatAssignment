@@ -30,8 +30,6 @@ This is a frontend-only React application replicating the UI and core functional
 
 - **React.js**
 - **Material-UI (MUI)** for styling and layout
-- **Recharts** for graphs
-- **React Router DOM** for page routing
 
 ---
 
