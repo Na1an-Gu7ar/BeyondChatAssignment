@@ -12,15 +12,11 @@ This is a frontend-only React application replicating the UI and core functional
 
 ## 📸 Features Implemented
 
-- ✅ **Dashboard** page with metric cards.
 - ✅ **Conversations** panel with:
   - Sidebar for open conversations.
   - Message chat panel with user and agent messages.
   - Right-side **AI Copilot** with prompt suggestions.
   - Mobile responsive layout using drawer + tabs.
-- ✅ **Contacts** page with customer info cards.
-- ✅ **Reports** page with bar and line charts (Recharts).
-- ✅ **Settings** page with form fields and notification toggle.
 - ✅ Fully **responsive UI** using Material-UI.
 - ✅ Clean code structure using React components.
 
