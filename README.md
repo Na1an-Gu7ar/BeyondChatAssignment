@@ -37,3 +37,17 @@ This is a frontend-only React application replicating the UI and core functional
 
 ## 🗂 Project Structure
 
+- **src/**
+- **├── components/ # Reusable components (Sidebar, Chat, Copilot)**
+- **├── page/ # (Conversation)**
+- **├── App.js # Main app routing**
+- **└── index.js # Entry point**
+
+---
+
+## 🚀 Getting Started Locally
+
+```bash
+git clone https://github.com/Na1an-Gu7ar/BeyondChatAssignment.git
+npm install
+npm run dev
