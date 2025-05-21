@@ -11,7 +11,7 @@ import {
   Tab,
 } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
-import LeftSidebar from '../components/LeftSideBar';
+import LeftSideBar from '../components/LeftSideBar';
 import ChatPanel from '../components/ChatPanel';
 import CopilotPanel from '../components/CopilotPanel';
 import { useTheme } from '@mui/material/styles';
@@ -47,12 +47,12 @@ const Conversations = () => {
             onClose={() => setMobileSidebarOpen(false)}
           >
             <Box sx={{ width: 280 }}>
-              <LeftSidebar selectedId={selectedId} setSelectedId={setSelectedId} />
+              <LeftSideBar selectedId={selectedId} setSelectedId={setSelectedId} />
             </Box>
           </Drawer>
         ) : (
           <Box sx={{ width: 280, borderRight: '1px solid #eee' }}>
-            <LeftSidebar selectedId={selectedId} setSelectedId={setSelectedId} />
+            <LeftSideBar selectedId={selectedId} setSelectedId={setSelectedId} />
           </Box>
         )}
 
