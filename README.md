@@ -4,7 +4,7 @@ This is a frontend-only React application replicating the UI and core functional
 
 ## 🌐 Live Demo
 
-👉 [Live Site on Vercel]([https://your-vercel-link.vercel.app](https://beyond-chat-assignment-kbxz191pw-nayan-gujars-projects.vercel.app/))
+👉 [Live Site on Vercel](https://beyond-chat-assignment-kbxz191pw-nayan-gujars-projects.vercel.app/)
 
 ---
 
